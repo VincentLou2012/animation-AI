@@ -1,0 +1,5 @@
+{
+  "name": "ManjuAI - Web Novel to Script Agent",
+  "description": "A high-tech agent interface for adapting web novels into comic/drama scripts using Gemini AI.",
+  "requestFramePermissions": []
+}
